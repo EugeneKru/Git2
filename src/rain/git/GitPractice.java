@@ -8,9 +8,14 @@ public class GitPractice {
 		
 		String branch1 = "Hello Git, branch1!!!!!!!!!!!!!!!!!!!!!!!!!!";
 		
+		String branch2 = "Hello Git, branch2";
+		
+		
 		System.out.println(git);
 		
 		System.out.println(branch1);
+		
+		System.out.println(branch2);
 
 	}
 
