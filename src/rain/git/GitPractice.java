@@ -6,7 +6,7 @@ public class GitPractice {
 		
 		String git = "Hello Git";
 		
-		String branch1 = "Hello Git, branch1";
+		String branch1 = "Hello Git, branch1!!!!!!!!!!!!!!!!!!!!!!!!!!";
 		
 		System.out.println(git);
 		
